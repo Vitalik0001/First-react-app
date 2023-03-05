@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between; 
+  background-color: #21222A;
+  padding: 30px 26px;
+}
+.header img {
+  padding-right: 6px;
+}
+.header div {
+  display: flex;
+}
+.header h1 {
+  color: #61DAFB;
+  font-size: 22px;
+}
+.header h2 {
+  align-self: center;
+  color: white;
+  font-size: 16px;
+}
