@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/First-react-app/static/css/main.c73ed4ba.css",
+    "main.css": "/First-react-app/static/css/main.6b599329.css",
     "main.js": "/First-react-app/static/js/main.74baa185.js",
     "static/media/dark-mode.svg": "/First-react-app/static/media/dark-mode.ed48645cfe0b290047bfa33a6c23e376.svg",
     "static/media/light-mode.svg": "/First-react-app/static/media/light-mode.fc349fb029317443da46e98f3deb3443.svg",
@@ -8,11 +8,11 @@
     "static/media/reactjs-icon 2.svg": "/First-react-app/static/media/reactjs-icon 2.8fc211f27a8ddc40e189ab8add810dad.svg",
     "index.html": "/First-react-app/index.html",
     "static/media/Ellipse 1.svg": "/First-react-app/static/media/Ellipse 1.e533a9e193dcf81b234f.svg",
-    "main.c73ed4ba.css.map": "/First-react-app/static/css/main.c73ed4ba.css.map",
+    "main.6b599329.css.map": "/First-react-app/static/css/main.6b599329.css.map",
     "main.74baa185.js.map": "/First-react-app/static/js/main.74baa185.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73ed4ba.css",
+    "static/css/main.6b599329.css",
     "static/js/main.74baa185.js"
   ]
 }
