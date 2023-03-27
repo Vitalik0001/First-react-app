@@ -2,9 +2,9 @@ import React from 'react';
 import './main.css';
 import react_img from './img/reactjs-icon 2.svg';
 
-export default function Main() {
+export default function Main(props) {
   return (
-    <div className='main'>
+    <div className='main' style={{backgroundColor: props.darkMode ? "lightgrey" : "#282D35", color: props.darkMode ? "black" : "white"}}>
       <h1>Fun facts about React</h1>
       <div className='main__text text'>
         <div className='text__facts'>        
